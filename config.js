@@ -34,27 +34,27 @@ global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '083816532656'
 global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = '-'
+global.psaweria = 'https://saweria.co/Aryasensei'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
+global.nomorbot = '62882007459744'
+global.nomorown = '6283816532656'
+global.nomorown1 = '6283816532656'
 global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nameown = 'arya'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
-  ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['62882007459744'],
+  ['6283816532656'],
+  ['6283816532656'],
+  ['6283816532656', 'arya', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
